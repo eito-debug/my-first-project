@@ -22,3 +22,34 @@ body {
     color: #555;
     line-height: 1.8;
   }
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 16px 0 8px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4a6cf7;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3a5ce6;
+  }
+  
+  #message {
+    font-size: 20px;
+    font-weight: bold;
+    color: #4a6cf7;
+    margin-top: 16px;
+  }
