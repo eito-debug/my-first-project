@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0f4ff;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+  }
+  
+  .card {
+    background: white;
+    border-radius: 12px;
+    padding: 32px;
+    width: 400px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    color: #4a6cf7;
+  }
+  
+  p {
+    color: #555;
+    line-height: 1.8;
+  }
